@@ -24,5 +24,5 @@ fido.name = "Fido"
 
 fido.name
 
-fido.instance_variable_set( "woof!")
+fido.instance_variable_set(:@bark, "woof!")
 fido.bark
