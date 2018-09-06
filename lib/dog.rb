@@ -23,4 +23,3 @@ end
     fido.name
 
     fido.bark
-    
